@@ -235,8 +235,8 @@ echo "./user-limit.sh 2"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Account Default (utk SSH dan VPN)"  | tee -a log-install.txt
 echo "---------------"  | tee -a log-install.txt
-echo "User     : Dimas"  | tee -a log-install.txt
-echo "Password : qweasd"  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
+echo ""  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
 echo "Fitur lain"  | tee -a log-install.txt
 echo "----------"  | tee -a log-install.txt
